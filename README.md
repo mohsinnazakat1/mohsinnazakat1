@@ -2,9 +2,9 @@
 
 ## I'm a Student of Computer Science and areas of my intrest are
 
-- Cloud Technologies
-- Artificial Intelligence
 - Machine Learning
+- Artificial Intelligence
+
 
 ## More About me
 
