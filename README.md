@@ -8,9 +8,9 @@
 
 ## More About me
 
-- 🔭 I'm Currently working on ML models for classification Problems | Knowledge Based Systems | Context Based AI Systems.
+- 🔭 I'm Currently working on Machine Learning | Toxicity in speech | Audio Signal Processing |
 - 🌱 I’m currently learning a lot of things 
-- 👯 I’m looking to collaborate with other Cloud Enthusiasts | ML and AI Lovers.
+- 👯 I’m looking to collaborate with other Machine Learning Enthusiasts. 
 - 🥅 2021 Goals: Keep Learning and Keep Sharing
 
 ### Connect with me:
