@@ -3,7 +3,7 @@
 ## I'm a Student of Computer Science and areas of my intrest are
 
 - Machine Learning
-- Artificial Intelligence
+- Data Science
 
 
 ## More About me
