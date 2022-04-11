@@ -1,13 +1,13 @@
 ### Hi there, I'm Mohsin Nazakat 👋
 
-## I'm a Ruby on Rails Developer and Machine Learning Enthusiast 
+## I'm a Ruby on Rails Developer
 
 
 ## More About me
 
-- 🔭 I'm Currently working on Ruby on Rails Projects | Machine Learning | Toxicity in speech | Audio Signal Processing |
+- 🔭 I'm Currently working on Ruby on Rails Projects 
 - 🌱 I’m currently learning a lot of things 
-- 👯 I’m looking to collaborate with other Ruby on Rails Developers | Machine Learning Enthusiasts. 
+- 👯 I’m looking to collaborate with other Ruby on Rails Developers 
 - 🥅 2022 Goals: Keep Learning and Keep Sharing
 
 ### Connect with me:
