@@ -1,16 +1,13 @@
 ### Hi there, I'm Mohsin Nazakat 👋
 
-## I'm a Student of Computer Science and areas of my intrest are
-
-- Machine Learning
-- Data Science
+## I'm a Ruby on Rails Developer and Machine Learning Enthusiast 
 
 
 ## More About me
 
-- 🔭 I'm Currently working on Machine Learning | Toxicity in speech | Audio Signal Processing |
+- 🔭 I'm Currently working on Ruby on Rails Projects | Machine Learning | Toxicity in speech | Audio Signal Processing |
 - 🌱 I’m currently learning a lot of things 
-- 👯 I’m looking to collaborate with other Machine Learning Enthusiasts. 
+- 👯 I’m looking to collaborate with other Ruby on Rails Developers | Machine Learning Enthusiasts. 
 - 🥅 2022 Goals: Keep Learning and Keep Sharing
 
 ### Connect with me:
