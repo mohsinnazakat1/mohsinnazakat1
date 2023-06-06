@@ -1,14 +1,13 @@
 ### Hi there, I'm Mohsin Nazakat 👋
 
-## I'm a Ruby on Rails Developer | Machine Learning Enthusiast
+## I'm a Full Stack Developer | Expert in MVP and No code 
 
 
 ## More About me
 
-- 🔭 I'm Currently working on Ruby on Rails Projects, Machine Learning and Natural Language Processing
-- 🌱 I’m currently learning a lot of things 
-- 👯 I’m looking to collaborate with other Ruby on Rails Developers 
-- 🥅 2022 Goals: Keep Learning and Keep Sharing
+- 🔭 I'm Currently providing my services to several clients around the globe
+- 🌱 I’m currently helping several people with my code
+- 👯 I’m looking to collaborate with other Full Stack Developers
 
 ### Connect with me:
 
