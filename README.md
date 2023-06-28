@@ -1,6 +1,6 @@
 ### Hi there, I'm Mohsin Nazakat 👋
 
-## I'm a Full Stack Developer | Expert in MVP and No code 
+## I'm a Full Stack Developer | Ruby on Rails | React | MVP Expert
 
 
 ## More About me
@@ -18,5 +18,3 @@
 
 [website]: https://mohsinnazakat.com
 [linkedin]: https://linkedin.com/in/mohsinnazakat11
-[twitter]: https://twitter.com/mohsinnazakat1
-[instagram]: https://instagram.com/mohsinnazakat11
